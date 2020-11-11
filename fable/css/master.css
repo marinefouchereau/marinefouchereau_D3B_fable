@@ -1,0 +1,31 @@
+body {
+
+}
+
+header {
+left: 30vh;
+
+}
+
+section {
+  box-shadow: 0px 11px 19px -4px rgba(138,130,138,0.53);
+  min-height: 90vh;
+  padding: 2em;
+}
+
+.texte{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.titre{
+position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+
+}
